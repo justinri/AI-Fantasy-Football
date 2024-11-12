@@ -27,7 +27,7 @@ len_of_input_data = len(train_x[0])
 
 print(len_of_input_data)
 #sys.exit()
-### There was two classes, for mnist has numbers 0-9, therefore num of classes = 10
+### There were two classes, for mnist has numbers 0-9, therefore num of classes = 10
 ### Batch size, for mnist it would be how many images at a time
 num_classes = 3    ### Number of classes, is number of stats your evaluating
 batch_size = 1	   ### There are 32 football teams, we will evaluate one year at a time
